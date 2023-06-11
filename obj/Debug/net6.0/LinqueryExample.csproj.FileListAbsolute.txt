@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\LinqueryExample\bin\Debug\net6.0\LinqueryExample.exe
+C:\Users\Hp\source\repos\LinqueryExample\bin\Debug\net6.0\LinqueryExample.deps.json
+C:\Users\Hp\source\repos\LinqueryExample\bin\Debug\net6.0\LinqueryExample.runtimeconfig.json
+C:\Users\Hp\source\repos\LinqueryExample\bin\Debug\net6.0\LinqueryExample.dll
+C:\Users\Hp\source\repos\LinqueryExample\bin\Debug\net6.0\LinqueryExample.pdb
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.AssemblyInfo.cs
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.dll
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\refint\LinqueryExample.dll
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.pdb
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\LinqueryExample.genruntimeconfig.cache
+C:\Users\Hp\source\repos\LinqueryExample\obj\Debug\net6.0\ref\LinqueryExample.dll
